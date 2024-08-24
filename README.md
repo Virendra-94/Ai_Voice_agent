@@ -1,13 +1,13 @@
-# Voice AI Restaurant Assistant
+# Voice AI Car Dealership Assistant
 
-This project is a Voice AI agent named "James" that acts as a receptionist in an AI restaurant. James can handle table reservations and take orders from a predefined menu using natural voice interactions. The application uses the OpenAI GPT model for conversational intelligence and Deepgram for speech-to-text and text-to-speech functionalities.
+This project is a Voice AI agent named "James" that acts as a receptionist for a car dealership. James can engage with customers to provide information about cars, handle car reservations, and assist with booking test drives using natural voice interactions. The application uses the OpenAI GPT model for conversational intelligence and Deepgram for speech-to-text and text-to-speech functionalities.
 
 ## Features
 
-- Engage in human-like voice conversations.
-- Handle table reservations, including asking for date, time, and the number of guests.
-- Take food orders, confirm the order, and calculate the total price.
-- Provide delivery time estimates.
+- Engage in human-like voice conversations with customers.
+- Provide information about available car models, features, and pricing.
+- Assist customers with booking test drives, including scheduling and confirming details.
+- Handle inquiries about car availability and specifications.
 - Voice interaction with synthesized responses.
 
 ## Technologies Used
@@ -33,8 +33,8 @@ Follow these steps to set up and run the project:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/voice-ai-restaurant-assistant.git
-    cd voice-ai-restaurant-assistant
+    git clone https://github.com/your-username/voice-ai-car-dealership-assistant.git
+    cd voice-ai-car-dealership-assistant
     ```
 
 2. **Create and activate a virtual environment:**
@@ -80,7 +80,7 @@ Follow these steps to set up and run the project:
 
 - The application will start listening for voice input once it runs.
 - You can interact with the AI agent "James" by speaking into your microphone.
-- James will respond using synthesized voice and will handle tasks like table reservations and order-taking.
+- James will respond using synthesized voice and will handle tasks like providing car information, booking test drives, and confirming reservations.
 
 ## Notes
 
